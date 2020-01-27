@@ -48,6 +48,5 @@ Input  > The_End
 Output > e_EndTh:7
 17th----------------------------------------------
 Input  > Her_Majesty
-character...}
 Output > MajestyHer_:11
 --------------------------------------------------

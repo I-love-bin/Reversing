@@ -1,0 +1,53 @@
+1st-----------------------------------------------
+Input  > Come_Together
+Output > me_TogetherCo:5
+2nd-----------------------------------------------
+Input  > Something
+Output > thingSome:8
+3rd-----------------------------------------------
+Input  > Maxwell's_Silver_Hammer
+Output > ilver_HammerMaxwell's_S:3
+4th-----------------------------------------------
+Input  > Oh!_Darling
+Output > gOh!_Darlin:7
+5th-----------------------------------------------
+Input  > Octopus's_Garden
+Output > enOctopus's_Gard:4
+6th-----------------------------------------------
+Input  > I_Want_You(She's_So_Heavy)
+Output > _Heavy)I_Want_You(She's_So:4
+7th-----------------------------------------------
+Input  > Here_Comes_the_Sun
+Output > he_SunHere_Comes_t:5
+8th-----------------------------------------------
+Input  > Because
+Output > seBecau:16
+9th-----------------------------------------------
+Input  > You_Never_Give_Me_Your_Money
+Output > eyYou_Never_Give_Me_Your_Mon:3
+10th----------------------------------------------
+Input  > Sun_King
+Output > gSun_Kin:11
+11th----------------------------------------------
+Input  > Mean_Mr.Mustard
+Output > r.MustardMean_M:3
+12th----------------------------------------------
+Input  > Polythene_Pam
+Output > ene_PamPolyth:8
+13th----------------------------------------------
+Input  > She_Came_In_Through_The_Bathroom_Window
+Output > he_Bathroom_WindowShe_Came_In_Through_T:2
+14th----------------------------------------------
+Input  > Golden_Slumbers
+Output > den_SlumbersGol:3
+15th----------------------------------------------
+Input  > Carry_That_Weight
+Output > htCarry_That_Weig:5
+16th----------------------------------------------
+Input  > The_End
+Output > e_EndTh:7
+17th----------------------------------------------
+Input  > Her_Majesty
+character...}
+Output > MajestyHer_:11
+--------------------------------------------------
